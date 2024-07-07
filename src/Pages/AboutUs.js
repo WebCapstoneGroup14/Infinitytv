@@ -65,6 +65,7 @@ function AboutUs() {
         </div>
       </div>
     </Layout>
+    //created by group 14
   );
 }
 
