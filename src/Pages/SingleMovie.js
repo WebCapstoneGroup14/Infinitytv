@@ -53,6 +53,8 @@ function SingleMovie() {
         </div>
       </div>
     </Layout>
+
+    //Created by Patrick
   );
 }
 
